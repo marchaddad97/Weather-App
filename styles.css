@@ -1,0 +1,41 @@
+.main-container {
+    width: 600px;
+    margin:auto;
+    border: 50px solid gray;
+    background: rgb(16,165,170);
+background: linear-gradient(0deg, rgba(16,165,170,1) 0%, rgba(24,171,180,1) 33%, rgba(13,189,224,1) 100%);
+}
+.TopBar {
+display: flex;
+align-items: center;
+justify-content: space-between;
+
+}
+.RightBar {
+ margin-right: 10px;   
+}
+.MiddleBar {
+    color: rgb(120, 120, 171);
+}
+.RightBar {
+    color:  rgb(120, 120, 171);
+}
+.MiddleBar2 {
+ text-align: center;
+    font-size: larger; 
+    color: rgb(120, 120, 171);
+
+}
+.firstRow {
+    width: 90%;
+    margin:auto;
+    display: flex;
+    justify-content: space-evenly;
+    border-bottom: 5px solid blue;
+}
+.secondRow {
+    width: 90%;
+    margin:auto;
+display: flex;
+justify-content: space-evenly;
+}
